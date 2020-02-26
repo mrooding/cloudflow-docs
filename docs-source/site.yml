@@ -15,7 +15,7 @@ content:
     start-path: shared-content-source/docs
   - url: git@github.com:lightbend/cloudflow
     branches: [feature/doc-snippets]
-    start-path: examples/docs
+    start-path: examples/snippets
 
 ui: 
   bundle:
